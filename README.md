@@ -1,4 +1,7 @@
 # NOTE-app
+
+[URL](https://mynote-first.herokuapp.com)
+
 独学エンジニアで作った。
 
 定期的に初期化されます。散らかしっぱなしでも大丈夫。
@@ -17,5 +20,3 @@
 ## プチ機能
 * ダミーを登録できる（絞り込みを試すときなどに便利に使って欲しい）
 * テーマの切り替え（わざわざHTMLとCSSとPHPだけでやることではない）
-
-[URL](https://mynote-first.herokuapp.com)
