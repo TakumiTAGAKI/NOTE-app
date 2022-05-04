@@ -16,7 +16,7 @@
 * [scssphp](https://scssphp.github.io/scssphp/)
 * HTML
 * CSS
-* bootstrap
+* Bootstrap
 * Heroku
 
 ## 主な機能（できること）
