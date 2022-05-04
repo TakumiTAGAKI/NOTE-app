@@ -6,6 +6,19 @@
 
 定期的に初期化されます。散らかしっぱなしでも大丈夫。
 
+## 使ったもの
+
+* VSCode
+* Docker
+* PHP
+ * composer
+ * [phpdotenv](https://github.com/vlucas/phpdotenv.git)
+* [scssphp](https://scssphp.github.io/scssphp/)
+* HTML
+* CSS
+* bootstrap
+* Heroku
+
 ## 主な機能（できること）
 * 登録
 * 登録した内容の変更/削除
