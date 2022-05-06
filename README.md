@@ -2,7 +2,7 @@
 
 [https://mynote-first.herokuapp.com](https://mynote-first.herokuapp.com)
 
-独学エンジニアで作った。演習用なのでコードは無し。
+独学エンジニアで作った。演習用の課題なのでURLだけ。
 
 リストは定期的に初期化される。散らかしっぱなしでも大丈夫。
 
