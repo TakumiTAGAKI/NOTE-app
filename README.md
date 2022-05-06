@@ -9,10 +9,10 @@
 ## 使ったもの
 
 * VSCode
-* Docker
+* Docker（localでcontainer使った。DockerfileごとHerokuにデプロイした。）
 * PHP
  * composer
- * [phpdotenv](https://github.com/vlucas/phpdotenv.git)
+ * [phpdotenv](https://github.com/vlucas/phpdotenv.git)（localで環境変数使うため。最後は使っていない。）
 * [scssphp](https://scssphp.github.io/scssphp/)
 * HTML
 * CSS
