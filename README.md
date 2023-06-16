@@ -1,6 +1,7 @@
 # NOTE-app
 
-[https://mynote-first.herokuapp.com](https://mynote-first.herokuapp.com)
+**Heroku有料化のため削除**
+~~[https://mynote-first.herokuapp.com](https://mynote-first.herokuapp.com)~~
 
 独学エンジニアで作った。演習用の課題なのでURLだけ。
 
